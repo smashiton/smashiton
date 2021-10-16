@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smashiton
-- 👀 I’m interested in ...Horse & Greyhound racing, football, NFL & webscraping
+- 👀 I’m interested in ...Horse & Greyhound racing, house & soul music, football, NFL & webscraping
 - 🌱 I’m currently learning ...python webscraping
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
